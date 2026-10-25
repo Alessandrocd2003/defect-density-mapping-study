@@ -1,6 +1,0 @@
-﻿hpo_tecnica,Defect density (n=28),Defect count (n=5),Classification (n=49),Effort-aware (n=21),Other (n=9),Total (n=112)
-Not reported,23 (82%),5 (100%),45 (92%),19 (90%),7 (78%),99 (88%)
-Grid search,3 (11%),0 (0%),1 (2%),1 (5%),1 (11%),6 (5%)
-Metaheuristic / bio-inspired,2 (7%),0 (0%),1 (2%),1 (5%),1 (11%),5 (4%)
-AutoML / automated tool,0 (0%),0 (0%),1 (2%),0 (0%),0 (0%),1 (1%)
-Random search,0 (0%),0 (0%),1 (2%),0 (0%),0 (0%),1 (1%)

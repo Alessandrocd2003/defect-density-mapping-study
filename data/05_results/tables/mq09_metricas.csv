@@ -1,5 +1,0 @@
-﻿metricas,Defect density (n=28),Defect count (n=5),Classification (n=49),Effort-aware (n=21),Other (n=9),Total (n=112)
-Classification,6 (21%),0 (0%),47 (96%),16 (76%),2 (22%),71 (63%)
-Effort-aware,0 (0%),0 (0%),7 (14%),20 (95%),0 (0%),27 (24%)
-Regression error,15 (54%),3 (60%),3 (6%),1 (5%),1 (11%),23 (21%)
-Statistical tests,2 (7%),1 (20%),2 (4%),0 (0%),1 (11%),6 (5%)
