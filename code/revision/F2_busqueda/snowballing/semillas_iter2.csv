@@ -1,0 +1,28 @@
+﻿seed_id,openalex_id,doi,title
+S1_01,https://openalex.org/W1597698972,,Analysis of approach for predicting software defect density using static metrics
+S1_02,https://openalex.org/W1970065340,,A fuzzy logic based approach for phase-wise software defects prediction using software metrics
+S1_03,https://openalex.org/W1980395498,,Suitability of KNN Regression in the Development of Interaction based Software Fault Prediction Models
+S1_04,https://openalex.org/W2047338137,,A Learning-to-Rank Approach to Software Defect Prediction
+S1_05,https://openalex.org/W2497047467,,An empirical study of some software fault prediction techniques for the number of faults prediction
+S1_06,https://openalex.org/W2296517388,,An empirical study on predicting defect numbers
+S1_07,https://openalex.org/W2605932792,,Towards an ensemble based system for predicting the number of software faults
+S1_08,https://openalex.org/W2604743733,,Prediction of Defect Density for Open Source Software using Repository Metrics.
+S1_09,https://openalex.org/W2791918041,,SamEn‐SVR: using sample entropy and support vector regression for bug number prediction
+S1_10,https://openalex.org/W2790454121,,Implementation of Chaotic Gaussian Particle Swarm Optimization for Optimize Learning-to-Rank Software Defect Prediction Model Construction
+S1_11,https://openalex.org/W3035711813,,WR-ELM: Weighted Regularization Extreme Learning Machine for Imbalance Learning in Software Fault Prediction
+S1_12,https://openalex.org/W3011028208,,Predicting the number of defects in a new software version
+S1_13,https://openalex.org/W2973751923,,Software Quality Prediction: An Investigation Based on Machine Learning
+S1_14,https://openalex.org/W2962748597,,Upsilon-SVR Polynomial Kernel for Predicting the Defect Density in New Software Projects
+S1_15,https://openalex.org/W3111039396,,Cross-Project Dynamic Defect Prediction Model for Crowdsourced test
+S1_16,https://openalex.org/W4206904750,,Predicting the precise number of software defects: Are we there yet?
+S1_17,https://openalex.org/W3208774663,,SHSE: A subspace hybrid sampling ensemble method for software defect number prediction
+S1_18,https://openalex.org/W4379930888,,Explainable Software Defect Prediction from Cross Company Project Metrics using Machine Learning
+S1_19,https://openalex.org/W4323851663,,Combining object‐oriented metrics and centrality measures to predict faults in object‐oriented software: An empirical validation
+S1_20,https://openalex.org/W4220817872,,Fault Prediction for Large Scale Projects Using Deep Learning Techniques
+S1_21,https://openalex.org/W4313491463,,Moth Flame Optimization Based FCNN for Prediction of Bugs in Software
+S1_22,https://openalex.org/W4412473930,,VoStackSDD: A Novel Ensemble Technique for Software Defect Density Prediction
+S1_23,https://openalex.org/W4404664707,,Software defect density prediction using grey system theory and fuzzy logic
+S1_24,https://openalex.org/W4413179529,,A Dual-Network MLSTM Model for Software Defect Density Prediction
+S1_25,https://openalex.org/W4416533959,,Machine Learning-Based Software Defect Prediction Using Learning to Rank and Linear Regression
+S1_26,https://openalex.org/W7166638487,,BAHA optimization based feature selection approach for software defect density modeling using S and V transfer function
+S1_27,https://openalex.org/W7169753417,,Predictive Modeling of Software Defect Density Using BAHA‐WOA–Based Feature Selection

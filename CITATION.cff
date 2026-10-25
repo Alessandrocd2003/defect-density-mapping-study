@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the paper and this replication package."
+title: "Replication package: A Systematic Mapping and Review Study on Software Defect Density Prediction Models"
+type: dataset
+date-released: 2026-10-24
+license: CC-BY-4.0
+authors:
+  - given-names: "Juan"
+    family-names: "Murillo-Morera"
+    affiliation: "National University of Costa Rica"
+  - given-names: "Rubén"
+    family-names: "Fuentes-Fernández"
+    affiliation: "University Complutense of Madrid"
+  - given-names: "Andrés"
+    family-names: "Calvo Vargas"
+    affiliation: "National University of Costa Rica"
+  - given-names: "Alessandro"
+    family-names: "Cambronero Delgado"
+    affiliation: "National University of Costa Rica"
+  - given-names: "Janio"
+    family-names: "Jadán-Guerrero"
+    affiliation: "Indo-America Technological University"
+  - given-names: "Susana Alexandra"
+    family-names: "Arias"
+    affiliation: "International University of La Rioja"
+keywords:
+  - defect density prediction
+  - systematic mapping study
+  - software defect prediction
+  - replication package

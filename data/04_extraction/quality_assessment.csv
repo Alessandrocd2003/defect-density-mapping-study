@@ -1,0 +1,113 @@
+﻿study_id,title,predictive_task,original_global_score
+P003,Adaptive Ensemble Learning Model-Based Binary White Shark Optimizer for Software Defect Classification,defect_proneness_classification,+1
+P006,Hybrid artificial intelligence for multi fault diagnosis in software systems using chaotic genetic algorithm and artificial bee colony optimization,fault_localization,+1
+P012,An explainable Al framework for enhanced software defect prediction using transformer-assisted boosting,defect_proneness_classification,+1
+P019,"Topic modeling-based prediction of software defects and root cause using BERTopic, and multioutput classifier",defect_proneness_classification,+1
+P022,Within-project and cross-project defect prediction based on model averaging,defect_proneness_classification,+1
+P023,Multilabel classification for defect prediction in software engineering,defect_proneness_classification,+1
+P031,Domain-specific implications of error-type metrics in risk-based software fault prediction,defect_proneness_classification,+1
+P038,Anticipating bugs: Ticket-level bug prediction and temporal proximity effects,defect_proneness_classification,+1
+P041,Optimizing software defect prediction performance via call graph embedding and feature selection,defect_proneness_classification,+1
+P062,ReDef: Do Code Language Models Truly Understand Code Changes for Just-in-Time Software Defect Prediction?,defect_proneness_classification,0
+P063,JIT-DCK: A KAN Multi-Task Model for Just-In-Time Code Defect Prediction and Localization,defect_proneness_classification,+1
+P064,Construction and Empirical Study of a Big Data-Driven Defect Prediction Model in Software Development,defect_proneness_classification,0
+P075,Feature Disentanglement-Based Heterogeneous Defect Prediction,defect_proneness_classification,+1
+P076,Estimating Uncertainty in Line-Level Defect Prediction via Perceptual Borderline Oversampling,defect_proneness_classification,+1
+P085,Hybrid Learning-to-Rank Regression Framework for Intelligent Software Fault Prediction,defect_density,+1
+P090,Novel artificial intelligence-based ensemble learning for optimized software quality,defect_proneness_classification,0
+P103,A framework for hyperparameter configuration in the context of software defect density prediction using bio-inspired optimization algorithms,defect_density,+1
+P105,A Predictive Model for Software Degradation Using Deep Learning: A Time-Series Approach to Reliability Analysis,reliability_prediction,+1
+P116,A comparative analysis between two techniques for the prediction of software defects: fuzzy and statistical linear regression,defect_count,0
+P117, Local versus Global Models for Effort-aware Defect Prediction,effort_aware_ranking,0
+P118, Search Based Training Data Selection For Cross Project Defect Prediction,defect_proneness_classification,+1
+P119,Defect Prediction on a Legacy Industrial Software: A Case Study on Software with Few Defects,defect_proneness_classification,0
+P120,Effort-Aware Just-in-Time Defect Prediction: Simple Unsupervised Models Could Be Better Than Supervised Models,effort_aware_ranking,0
+P121,Empirical Evaluation of Cross-Release Effort-Aware Defect Prediction Models,effort_aware_ranking,0
+P122,Empirical analysis of network measures for predicting high severity software faults,defect_proneness_classification,-1
+P123,An Extensive Analysis of Efficient Bug Prediction Configurations,effort_aware_ranking,-1
+P124,Code churn: A neglected metric in effort-aware just-in-time defect prediction,effort_aware_ranking,0
+P126,Revisiting Unsupervised Learning for Defect Prediction,effort_aware_ranking,0
+P128,Feature selection using firefly algorithm in software defect prediction,defect_proneness_classification,+1
+P132,How Far We Have Progressed in the Journey? An Examination of Cross-Project Defect Prediction,defect_proneness_classification,0
+P133,Modeling Relationship between Post-Release Faults and Usage in Mobile Software,defect_count,-1
+P134,Multi-Objective vs. Single-Objective Approaches for Software Defect Prediction,effort_aware_ranking,+1
+P135,Research on a Method of Software Reliability Prediction Model,reliability_prediction,-1
+P136,Bug Prediction Model using Code Smells,defect_proneness_classification,-1
+P137,Cross-release code churn impact on effort-aware software defect prediction,effort_aware_ranking,0
+P138,A dimensionality reduction-based efficient software fault prediction using Fisher linear discriminant analysis (FLDA),defect_proneness_classification,-1
+P139,An effective fault prediction model developed using an extreme learning machine with various kernel methods,defect_proneness_classification,-1
+P140,Evaluation of Techniques for Binary Class Classification,defect_proneness_classification,-1
+P142,Comparing the Effectiveness of Using Design and Code Measures in Software Faultiness Estimation,defect_proneness_classification,-1
+P143,Does UML Modeling Associate with Lower Defect Proneness?: A Preliminary Empirical Investigation,empirical_statistical_model,0
+P144,An Empirical Study of Learning to Rank Techniques for Effort-Aware Defect Prediction,effort_aware_ranking,0
+P148,Cross Project Defect Prediction via Balanced Distribution Adaptation Based Transfer Learning,defect_proneness_classification,0
+P149,Effort-Aware Tri-Training for Semi-supervised Just-in-Time Defect Prediction,effort_aware_ranking,0
+P151,Performance and cost-effectiveness of change burst metrics in predicting software faults,defect_proneness_classification,-1
+P152,Revisiting supervised and unsupervised models for effort-aware just-in-time defect prediction,effort_aware_ranking,0
+P153,Software defect prediction techniques using metrics based on neural network classifier,defect_proneness_classification,0
+P154,Threshold Extraction Framework for Software Metrics,empirical_statistical_model,-1
+P155,Effort-Aware Just-in-Time Defect Identification in Practice: A Case Study at Alibaba,effort_aware_ranking,0
+P158,Software Defect Density Prediction based on Multiple Linear Regression,defect_density,+1
+P161,Deriving a usage-independent software quality metric,empirical_statistical_model,-1
+P164,Understanding machine learning software defect predictions,defect_proneness_classification,0
+P169,Learning to rank software modules for effort-aware defect prediction,effort_aware_ranking,+1
+P170,An Empirical Assessment and Validation of Redundancy Metrics Using Defect Density as Reliability Indicator,defect_density,+1
+P172,Defect prediction model of static code features for cross-company and cross-project software,defect_proneness_classification,0
+P173,Evaluating network embedding techniques’ performances in software bug prediction,defect_proneness_classification,-1
+P175,Searching for Bellwether Developers for Cross-Personalized Defect Prediction,defect_proneness_classification,0
+P176,Weighted software metrics aggregation and its application to defect prediction,defect_proneness_classification,0
+P178,The Best of Both Worlds: Integrating Semantic Features with Expert Features for Defect Prediction and Localization,defect_proneness_classification,0
+P181,Software Defect Density Prediction Using Deep Learning,defect_density,+1
+P184,Analysis of the change in bugginess and adaptiveness of python software systems,empirical_statistical_model,-1
+P187,Data sampling and kernel manifold discriminant alignment for mixed-project heterogeneous defect prediction,defect_proneness_classification,0
+P188,Defect prediction using deep learning with Network Portrait Divergence for software evolution,defect_density,0
+P190,On effort-aware metrics for defect prediction,effort_aware_ranking,0
+P191,Prediction of software fault‑prone classes using ensemble random forest with adaptive synthetic sampling algorithm,defect_proneness_classification,+1
+P193, A Multidimensional Analysis of Bug Density in SAP HANA,empirical_statistical_model,+1
+P198,Early Software Defects Density Prediction: Training the International Software Benchmarking Cross Projects Data Using Supervised Learning,defect_density,+1
+P199,Finding the best learning to rank algorithms for effort-aware defect prediction,effort_aware_ranking,0
+P202,An empirical evaluation of defect prediction approaches in within‑project and cross‑project context,defect_proneness_classification,0
+P203,Empirical Validation of Entropy-Based Redundancy Metrics as Reliability Indicators Using Fault-Proneness Attribute and Complexity Metrics,defect_proneness_classification,-1
+P207,Outlier Mining Techniques for Software Defect Prediction,defect_proneness_classification,0
+P208,An Empirical Study on Just-in-time Conformal Defect Prediction,defect_proneness_classification,0
+P209,A Novel Approach to Predict the Defect Density in Software Application using Linear Regression Algorithm,defect_density,+1
+P210,Enhancing Software Defect Prediction Through Advanced Machine Learning: Investigating Solutions to Key Limitations of Traditional Techniques,defect_proneness_classification,0
+P211,A soft computing approach for software defect density prediction,defect_density,+1
+P212,Improving effort-aware defect prediction by directly learning to rank software modules,effort_aware_ranking,+1
+P215,Decision Tree Regression Analysis of Proposed Metric Suite for Software Fault Prediction,defect_proneness_classification,-1
+P217,Free open source communities sustainability: Does it make a difference in software quality?,empirical_statistical_model,-1
+P218,Improving Transfer Learning for Software Cross-Project Defect Prediction,defect_proneness_classification,0
+P220,Software defect prediction using a bidirectional LSTM network combined with oversampling techniques,defect_proneness_classification,0
+P226,Comparing Static Bug Finders and Statistical Prediction,defect_proneness_classification,NA
+P246,Empirical Study of Defects Dependency on Software Metrics Using Clustering Approach,defect_count,NA
+P257,A Decision Tree Regression based Approach for the Number of Software Faults Prediction,defect_count,NA
+P258,A Metric Suite Proposal for Logical Dependency,defect_proneness_classification,NA
+P259,A Search-based Training Algorithm for Cost-aware Defect Prediction,effort_aware_ranking,NA
+P267,Studying just-in-time defect prediction using cross-project models,defect_proneness_classification,NA
+P272,File-Level Defect Prediction: Unsupervised vs. Supervised Models,effort_aware_ranking,NA
+P274,The Characteristics of False-Negatives in File-level Fault Prediction,defect_proneness_classification,NA
+P275,Integrated Approach to Software Defect Prediction,defect_density,NA
+P276,A bayesian belief network based model for predicting software faults in early phase of software development process,defect_count,NA
+P331,Just-In-Time Defect Prediction on JavaScript Projects: A Replication Study,effort_aware_ranking,NA
+P340,"Code-line-level Bugginess Identification: How Far have We Come, and How Far have We Yet to Go?",defect_proneness_classification,NA
+P344,The Impact of the bug number on Effort-Aware Defect Prediction: An Empirical Study,effort_aware_ranking,NA
+P357,Improving classifier-based effort-aware software defect prediction by reducing ranking errors,effort_aware_ranking,NA
+P362,Exploring better alternatives to size metrics for explainable software defect prediction,defect_proneness_classification,NA
+S001,"A comparative study of fault density prediction in aspect-oriented systems using MLP, RBF, KNN, RT, DENFIS and SVR models",defect_density,
+S002,Fault density analysis of object-oriented classes in presence of code clones,defect_density,
+S003,Transformed k-nearest neighborhood output distance minimization for predicting the defect density of software projects,defect_density,
+S004,Software defect prediction using learning to rank approach,defect_density,
+S005,Enhancing software defect prediction models using metaheuristics with a learning to rank approach,defect_density,
+S006,Software Defect Prediction Based on Machine Learning and Deep Learning Techniques: An Empirical Approach,defect_density,
+S007,Firefly Optimization-Based Feature Selection for Software Defect Density Prediction,defect_density,
+S008,Analysis of approach for predicting software defect density using static metrics,defect_density,
+S015,Prediction of Defect Density for Open Source Software using Repository Metrics.,defect_density,
+S021,Upsilon-SVR Polynomial Kernel for Predicting the Defect Density in New Software Projects,defect_density,
+S029,VoStackSDD: A Novel Ensemble Technique for Software Defect Density Prediction,defect_density,
+S030,Software defect density prediction using grey system theory and fuzzy logic,defect_density,
+S031,A Dual-Network MLSTM Model for Software Defect Density Prediction,defect_density,
+S032,Machine Learning-Based Software Defect Prediction Using Learning to Rank and Linear Regression,defect_density,
+S033,BAHA optimization based feature selection approach for software defect density modeling using S and V transfer function,defect_density,
+S034,Predictive Modeling of Software Defect Density Using BAHA‐WOA–Based Feature Selection,defect_density,
+S074,A Predictive Approach to Estimate Software Defects Density Using Weighted Artificial Neural Networks for the Given Software Metrics,defect_density,
+S078,Exploring Defect Density Prediction: A Comparative Analysis of Feature Reduction Techniques and Staking Methodology,defect_density,

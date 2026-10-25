@@ -1,0 +1,25 @@
+﻿step_es,n
+Registros identificados (matriz consolidada),367
+  por base de datos,"{'ACM Digital Library': 111, 'IEEE/IET Electronic Library': 39, 'Scopus': 37, 'SpringerLink': 180}"
+Duplicados eliminados,2
+Registros cribados,365
+Excluidos E6 (fuera de dominio SE),149
+Excluidos E2 (SE sin foco en defectos),102
+Candidatos en dominio (predicción de defectos / fiabilidad),114
+Excluidos E7 (secundarios),11
+Pendientes de evaluación (ficha vacía),5
+Excluidos E1 (no accesible),0
+Excluidos E3/E4/E5 (sin datasets / ML / métricas),4
+Elegibles (estudios primarios que cumplen criterios),94
+Snowballing: candidatos 2014+ cribados (3 iteraciones),1372
+  por iteración,"{'1': 526, '2': 838, '3': 8}"
+Snowballing: incluidos por título/resumen,78
+  por tarea,"{'COUNT': 67, 'DENS': 11}"
+Snowballing: pendientes de verificar,4
+Conjunto de control no recuperado por la búsqueda (añadido),7
+Snowballing/control verificados a texto completo,0
+  de ellos excluidos a texto completo,0
+INCLUIDOS escenario A_estricto,28
+INCLUIDOS escenario B_continuo,100
+INCLUIDOS escenario C_amplio,112
+  de ellos por snowballing/control (escenario C),18

@@ -1,0 +1,17 @@
+﻿key,study_id,field,value,reason_es
+verma2015empirical,P246,doi,10.1109/UPCON.2015.7456727,DOI de la matriz apuntaba a otro artículo (D-STATCOM); DOI correcto localizado por título en Crossref
+verma2015empirical,P246,title,{Emperical Study of Defects Dependency on Software Metrics Using Clustering Approach},Título tal como fue publicado (la errata 'Emperical' es del original)
+chai2024exploring,P362,doi,10.1007/s11219-023-09656-y,DOI de la matriz inexistente en Crossref; DOI correcto por título
+chatterjee2017bayesian,P276,doi,10.1007/s10489-017-1078-x,DOI de la matriz inexistente en Crossref; DOI correcto por título
+chatterjee2017bayesian,P276,year,2018,Año del volumen (Applied Intelligence 48; online 2017)
+phung2025domain,P031,doi,10.1007/s11219-024-09704-1,Errata en el prefijo del DOI (10.1129 por 10.1007)
+zhou2026construction,P064,doi,10.1145/3806262.3806267,DOI de la matriz ilegible ('10.32604/cmc.2026 / 10.1109/ICVRIS'); DOI correcto por título
+hosseini2017systematic,,year,2019,Año del volumen (IEEE TSE 45; online 2017)
+balaram2021prediction,P191,year,2022,Año del volumen (Automated Software Engineering 29; online 2021)
+stern2014developing,,doi,10.1097/01.NAJ.0000445689.67800.86,DOI faltante (Crossref)
+cohen1960coefficient,,doi,10.1177/001316446002000104,DOI faltante (Crossref)
+bashir2018timetoupdate,,doi,10.1186/s13643-018-0856-9,DOI faltante (Crossref)
+petersen2008systematic,,doi,10.14236/ewic/EASE2008.8,DOI faltante (Crossref)
+landis1977measurement,,doi,10.2307/2529310,DOI faltante (Crossref)
+akmel2018literature,,doi,10.23956/ijermt.v6i6.286,DOI faltante (Crossref)
+amasaki2021searching,P175,doi,10.1007/978-3-030-91452-3_12,DOI faltante (Crossref)

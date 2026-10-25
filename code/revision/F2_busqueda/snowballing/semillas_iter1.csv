@@ -1,0 +1,18 @@
+seed_id,doi,title
+P085,10.1109/ICOECIT68303.2026.11496699,Hybrid Learning-to-Rank Regression Framework for Intelligent Software Fault Prediction
+P103,10.1109/BIP68491.2025.11489144,A framework for hyperparameter configuration in the context of software defect density prediction using bio-inspired optimization algorithms
+P158,,Software Defect Density Prediction based on Multiple Linear Regression
+P170,10.1155/2021/8325417,An Empirical Assessment and Validation of Redundancy Metrics Using Defect Density as Reliability Indicator
+P181,10.1109/ACCESS.2022.3217480,Software Defect Density Prediction Using Deep Learning
+P188,,Defect prediction using deep learning with Network Portrait Divergence for software evolution
+P198,10.1109/ACCESS.2023.3339994,Early Software Defects Density Prediction: Training the International Software Benchmarking Cross Projects Data Using Supervised Learning
+P209,10.1109/ICSTEM61137.2024.10560850,A Novel Approach to Predict the Defect Density in Software Application using Linear Regression Algorithm
+P211,10.1002/smr.2553,A soft computing approach for software defect density prediction
+P275,10.1109/ACCESS.2017.2759180,Integrated Approach to Software Defect Prediction
+C01,,"A comparative study of fault density prediction in aspect-oriented systems using MLP, RBF, KNN, RT, DENFIS and SVR models"
+C02,10.1145/2745802.2745811,Fault density analysis of object-oriented classes in presence of code clones
+C03,,Transformed k-nearest neighborhood output distance minimization for predicting the defect density of software projects
+C08,10.1038/s41598-023-45915-5,Software defect prediction using learning to rank approach
+C10,10.1007/s44248-024-00016-0,Enhancing software defect prediction models using metaheuristics with a learning to rank approach
+C11,,Software Defect Prediction Based on Machine Learning and Deep Learning Techniques: An Empirical Approach
+C13,10.31449/inf.v50i15.12226,Firefly Optimization-Based Feature Selection for Software Defect Density Prediction
